@@ -1,2 +1,2 @@
-# AgendaJava
-Códigos de agenda simples em JAVA
+# Agenda
+Códigos de agenda simples em JAVA Desktop
